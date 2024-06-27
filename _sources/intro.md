@@ -1,11 +1,17 @@
-# Welcome to your Jupyter Book
+# DATA 1201
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+## Lab Materials
 
-Check out the content pages bundled with this sample book to see more.
+Developed by Laura Brown.
 
+
+This text is developed for the Michigan Tech course DATA 1201.
+
+The contents organized here is often authored by others.  Please note attribution listed in each section.
+
+
+
+<!--
 ```{tableofcontents}
 ```
+-->
