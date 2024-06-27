@@ -8,8 +8,8 @@ options:
   numbered: True
 chapters:
 - file: labs/lab01/lab01
-title: Lab 1
+  title: Lab 1
 - file: labs/lab02/lab02
-title: Lab 2
+  title: Lab 2
 - file: labs/lab03/lab03
-title: Lab 3
+  title: Lab 3
