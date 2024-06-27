@@ -3,7 +3,13 @@
 
 format: jb-book
 root: intro
+title: Introduction
+options:
+  numbered: True
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: labs/lab01/lab01
+title: Lab 1
+- file: labs/lab02/lab02
+title: Lab 2
+- file: labs/lab03/lab03
+title: Lab 3
